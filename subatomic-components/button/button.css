@@ -1,0 +1,11 @@
+.ds-c-button {
+    appearance: none;
+    padding: 1rem 1.5rem;
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    cursor: pointer;
+    background: var(--ds-theme-button-color-background);
+    border: 1px solid var(--ds-theme-button-color-border);
+    color: var(--ds-theme-button-color-content)
+}
+

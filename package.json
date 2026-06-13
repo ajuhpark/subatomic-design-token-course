@@ -1,0 +1,20 @@
+{
+  "name": "subatomic-design-token-course",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "build": "style-dictionary build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sass": "^1.99.0",
+    "style-dictionary": "^5.4.0"
+  },
+  "devDependencies": {
+    "storybook": "^10.3.6"
+  }
+}

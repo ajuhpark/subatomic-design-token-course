@@ -1,0 +1,6 @@
+.ds-c-heading {
+    font-family: 'Inter', sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    color: var(--ds-theme-button-color-content)
+}
