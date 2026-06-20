@@ -1,0 +1,18 @@
+{
+  "box-shadow": {
+    "sm": {
+      "x": { "value": "{shadow.sm.x}" },
+      "y": { "value": "{shadow.sm.y}" },
+      "blur": { "value": "{shadow.sm.blur}" },
+      "spread": { "value": "{shadow.sm.spread}" },
+      "Color": { "value": "{shadow.sm.Color}" }
+    },
+    "md": {
+      "x": { "value": "{shadow.md.x}" },
+      "y": { "value": "{shadow.md.y}" },
+      "blur": { "value": "{shadow.md.blur}" },
+      "spread": { "value": "{shadow.md.spread}" },
+      "Color": { "value": "{shadow.md.Color}" }
+    }
+  }
+}

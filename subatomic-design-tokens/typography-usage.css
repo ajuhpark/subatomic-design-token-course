@@ -1,0 +1,54 @@
+@charset "UTF-8";
+/*------------------------------------*\
+    #BREAKPOINT VARIABLES
+\*------------------------------------*/
+:root,
+:host {
+  --size-base-unit: 0.5rem;
+}
+
+/**
+ * Visible focus outline for elements on a light background
+ */
+/**
+ * Visible focus outline for elements on a dark background
+ */
+/**
+ * Visually hidden from display
+ */
+/* ------------------------------------*\
+    #TYPOGRAPHY APPLICATIONS
+\*------------------------------------ */
+/*
+$important: null — an optional parameter. If someone calls @include ds-theme-typography-display-default(!important), it appends !important to every property. Otherwise it's blank.
+
+The mobile tokens are the default (outside the media query) — mobile-first approach
+
+The @media (min-width: $ds-bp-md) block kicks in on larger screens and switches to the desktop tokens
+
+*/
+/*
+display-sm mixin. This follows the exact same pattern as display-default — just swap the name:
+*/
+/*
+The three headline mixins
+These all follow the same mobile-first pattern as display. 
+*/
+/*
+The three title mixins
+
+This is where the pattern changes slightly. title-lg still has a mobile variant, but title-default and title-sm do not — so those are flat mixins with no media query:
+
+The reason title-default and title-sm don't have mobile variants is because by the time you're at that size in the type scale, the difference between mobile and desktop isn't significant enough to warrant separate values — the designers made that call in Figma. Let me know when done!
+*/
+/*
+The three label mixins
+These are all flat — no mobile variants, same as title-default and title-sm:
+*/
+/*
+The three body mixins
+Also flat, no mobile variants:
+*/
+/*
+The two meta mixins — the last ones!
+*//*# sourceMappingURL=typography-usage.css.map */

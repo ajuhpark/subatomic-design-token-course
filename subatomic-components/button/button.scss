@@ -1,0 +1,16 @@
+@use '../../subatomic-design-tokens/abstracts/variables' as *;
+@use '../../subatomic-design-tokens/typography-usage' as *;
+
+.ds-c-button {
+    appearance: none;
+    display: inline-flex;
+    @include ds-theme-typography-label-default;
+    padding: size(1) size(2);
+    cursor: pointer;
+    background: var(--ds-theme-button-color-background-default);
+    border: 1px solid var(--ds-theme-button-color-border-default);
+    border-radius:var(--ds-theme-border-radius-md);
+    color: var(--ds-theme-button-color-content-default);
+    box-shadow: var(--ds-theme-box-shadow-sm);
+}
+
