@@ -138,7 +138,7 @@
         "value": "{color.neutral.400}"
       },
       "brand": {
-        "value": "#{color.brand.pink.600}"
+        "value": "{color.brand.pink.600}"
       },
       "utility": {
         "error": {

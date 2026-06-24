@@ -68,6 +68,10 @@ The two meta mixins — the last ones!
   border-radius: var(--ds-theme-border-radius-md);
   color: var(--ds-theme-button-color-content-default);
   box-shadow: var(--ds-theme-box-shadow-sm);
+  transition: transform var(--ds-theme-animation-fade-quick) var(--ds-theme-animation-move-quick);
+}
+.ds-c-button:hover {
+  transform: scale(1.2);
 }
 
 /*# sourceMappingURL=button.css.map */

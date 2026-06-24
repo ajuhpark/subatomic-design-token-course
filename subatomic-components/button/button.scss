@@ -12,5 +12,10 @@
     border-radius:var(--ds-theme-border-radius-md);
     color: var(--ds-theme-button-color-content-default);
     box-shadow: var(--ds-theme-box-shadow-sm);
+    transition: transform var(--ds-theme-animation-fade-quick) var(--ds-theme-animation-move-quick);
+
+    &:hover {
+        transform: scale(1.20);
+    }
 }
 

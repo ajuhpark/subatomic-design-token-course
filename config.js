@@ -42,7 +42,7 @@ const transformShadowTokens = (dictionary, size, themeTokens) => {
 	const y = shadowProps.find((p) => p.path[2] === "y")?.value || "0px";
 	const blur = shadowProps.find((p) => p.path[2] === "blur")?.value || "0px";
 	const spread = shadowProps.find((p) => p.path[2] === "spread")?.value || "0px";
-	const color = shadowProps.find((p) => p.path[2] === "Color")?.value || "transparent";
+	const color = shadowProps.find((p) => p.path[2] === "color")?.value || "transparent";
 
 	/* 5 */
 	themeTokens.push(`  --ds-theme-box-shadow-${size}: ${x} ${y} ${blur} ${spread} ${color};`);
@@ -108,8 +108,12 @@ StyleDictionary.registerFormat({
 
 
 export default {
-	log: "verose",
-	source: ["subatomic-design-tokens/tokens/**/*.json"],
+	log: { verbosity: "verbose" },
+	source: [
+		"subatomic-design-tokens/core/**/*.json",
+		"subatomic-design-tokens/strawberry/**/*.json",
+		"subatomic-design-tokens/chocolate/**/*.json",
+	],
 	platforms: {
 		css: {
 			prefix: "ds",
