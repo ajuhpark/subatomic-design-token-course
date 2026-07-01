@@ -1,0 +1,8 @@
+{
+  "name": "@andrewjypark/subatomic-design-tokens-core",
+  "version": "1.0.1",
+  "description": "Core (base) CSS design tokens for the Subatomic design system, with no flavor applied",
+  "main": "css/_variables.css",
+  "files": ["css"],
+  "license": "MIT"
+}

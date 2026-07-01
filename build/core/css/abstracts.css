@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/*------------------------------------*\
+    #BREAKPOINT VARIABLES
+\*------------------------------------*/
+:root,
+:host {
+  --size-base-unit: 0.5rem;
+}
+
+/**
+ * Visible focus outline for elements on a light background
+ */
+/**
+ * Visible focus outline for elements on a dark background
+ */
+/**
+ * Visually hidden from display
+ *//*# sourceMappingURL=variables.css.map */
