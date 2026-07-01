@@ -14,13 +14,13 @@
         "value": "{color.brand.cream.100}"
       },
       "brand": {
-        "value": "{color.brand.pink.600}"
+        "value": "{color.brand.brown.600}"
       },
       "brand-hover": {
-        "value": "{color.brand.pink.900}"
+        "value": "{color.brand.brown.900}"
       },
       "brand-knockout": {
-        "value": "{color.brand.pink.100}"
+        "value": "{color.brand.brown.100}"
       },
       "disabled": {
         "value": "{color.neutral.600}"
@@ -45,7 +45,7 @@
         "value": "{color.neutral.white}"
       },
       "default-hover": {
-        "value": "{color.brand.pink.100}"
+        "value": "{color.brand.brown.100}"
       },
       "subtle": {
         "value": "{color.brand.cream.100}"
@@ -57,19 +57,19 @@
         "value": "{color.neutral.black}"
       },
       "brand": {
-        "value": "{color.brand.pink.100}"
+        "value": "{color.brand.brown.100}"
       },
       "brand-hover": {
-        "value": "{color.brand.pink.200}"
+        "value": "{color.brand.brown.200}"
       },
       "brand-disabled": {
         "value": "{color.neutral.200}"
       },
       "brand-knockout": {
-        "value": "{color.brand.pink.800}"
+        "value": "{color.brand.brown.800}"
       },
       "brand-knockout-hover": {
-        "value": "{color.brand.pink.700}"
+        "value": "{color.brand.brown.700}"
       },
       "utility": {
         "error": {
@@ -99,10 +99,10 @@
       },
       "dataviz": {
         "primary": {
-          "value": "{color.brand.pink.400}"
+          "value": "{color.brand.brown.400}"
         },
         "primary-subtle": {
-          "value": "{color.dataviz.pink-transparent-12}"
+          "value": "{color.dataviz.brown-transparent-12}"
         },
         "secondary": {
           "value": "{color.dataviz.orange}"
@@ -138,7 +138,7 @@
         "value": "{color.neutral.400}"
       },
       "brand": {
-        "value": "{color.brand.pink.600}"
+        "value": "{color.brand.brown.600}"
       },
       "utility": {
         "error": {

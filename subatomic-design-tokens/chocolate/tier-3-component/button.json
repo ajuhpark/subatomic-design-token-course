@@ -3,16 +3,16 @@
     "color": {
       "content": {
         "default": {
-          "value": "{color.brand.pink.700}"
+          "value": "{color.brand.brown.700}"
         },
         "hover": {
-          "value": "{color.brand.pink.800}"
+          "value": "{color.brand.brown.800}"
         },
         "active": {
-          "value": "{color.brand.pink.800}"
+          "value": "{color.brand.brown.800}"
         },
         "disabled": {
-          "value": "{color.brand.pink.100}"
+          "value": "{color.brand.brown.100}"
         }
       },
       "background": {
@@ -31,16 +31,16 @@
       },
       "border": {
         "default": {
-          "value": "{color.brand.pink.700}"
+          "value": "{color.brand.brown.700}"
         },
         "hover": {
-          "value": "{color.brand.pink.800}"
+          "value": "{color.brand.brown.800}"
         },
         "active": {
-          "value": "{color.brand.pink.800}"
+          "value": "{color.brand.brown.800}"
         },
         "disabled": {
-          "value": "{color.brand.pink.100}"
+          "value": "{color.brand.brown.100}"
         }
       }
     },
@@ -48,16 +48,16 @@
       "color": {
         "background": {
           "default": {
-            "value": "{color.brand.pink.700}"
+            "value": "{color.brand.brown.700}"
           },
           "hover": {
-            "value": "{color.brand.pink.800}"
+            "value": "{color.brand.brown.800}"
           },
           "active": {
-            "value": "{color.brand.pink.800}"
+            "value": "{color.brand.brown.800}"
           },
           "disabled": {
-            "value": "{color.brand.pink.100}"
+            "value": "{color.brand.brown.100}"
           }
         },
         "content": {
@@ -76,16 +76,16 @@
         },
         "border": {
           "default": {
-            "value": "{color.brand.pink.700}"
+            "value": "{color.brand.brown.700}"
           },
           "hover": {
-            "value": "{color.brand.pink.800}"
+            "value": "{color.brand.brown.800}"
           },
           "active": {
-            "value": "{color.brand.pink.800}"
+            "value": "{color.brand.brown.800}"
           },
           "disabled": {
-            "value": "{color.brand.pink.100}"
+            "value": "{color.brand.brown.100}"
           }
         }
       }

@@ -2,7 +2,7 @@
   "typography": {
     "display-default": {
       "font-family": {
-        "value": "{typography.font-family.modak}"
+        "value": "{typography.font-family.anton-sc}"
       },
       "font-weight": {
         "value": "{typography.font-weight.400}"
@@ -42,7 +42,7 @@
     },
     "display-sm": {
       "font-family": {
-        "value": "{typography.font-family.modak}"
+        "value": "{typography.font-family.anton-sc}"
       },
       "font-weight": {
         "value": "{typography.font-weight.400}"
@@ -82,7 +82,7 @@
     },
     "headline-lg": {
       "font-family": {
-        "value": "{typography.font-family.modak}"
+        "value": "{typography.font-family.anton-sc}"
       },
       "font-weight": {
         "value": "{typography.font-weight.400}"
@@ -122,7 +122,7 @@
     },
     "headline-default": {
       "font-family": {
-        "value": "{typography.font-family.modak}"
+        "value": "{typography.font-family.anton-sc}"
       },
       "font-weight": {
         "value": "{typography.font-weight.400}"
@@ -162,7 +162,7 @@
     },
     "headline-sm": {
       "font-family": {
-        "value": "{typography.font-family.modak}"
+        "value": "{typography.font-family.anton-sc}"
       },
       "font-weight": {
         "value": "{typography.font-weight.400}"
@@ -202,10 +202,10 @@
     },
     "title-lg": {
       "font-family": {
-        "value": "{typography.font-family.nunito}"
+        "value": "{typography.font-family.inter}"
       },
       "font-weight": {
-        "value": "{typography.font-weight.700}"
+        "value": "{typography.font-weight.600}"
       },
       "font-size": {
         "value": "{typography.font-size.32}"
@@ -242,10 +242,10 @@
     },
     "title-default": {
       "font-family": {
-        "value": "{typography.font-family.nunito}"
+        "value": "{typography.font-family.inter}"
       },
       "font-weight": {
-        "value": "{typography.font-weight.700}"
+        "value": "{typography.font-weight.600}"
       },
       "font-size": {
         "value": "{typography.font-size.28}"
@@ -262,10 +262,10 @@
     },
     "title-sm": {
       "font-family": {
-        "value": "{typography.font-family.nunito}"
+        "value": "{typography.font-family.inter}"
       },
       "font-weight": {
-        "value": "{typography.font-weight.700}"
+        "value": "{typography.font-weight.600}"
       },
       "font-size": {
         "value": "{typography.font-size.24}"
@@ -282,10 +282,10 @@
     },
     "label-lg": {
       "font-family": {
-        "value": "{typography.font-family.nunito}"
+        "value": "{typography.font-family.inter}"
       },
       "font-weight": {
-        "value": "{typography.font-weight.700}"
+        "value": "{typography.font-weight.600}"
       },
       "font-size": {
         "value": "{typography.font-size.20}"
@@ -302,10 +302,10 @@
     },
     "label-default": {
       "font-family": {
-        "value": "{typography.font-family.nunito}"
+        "value": "{typography.font-family.inter}"
       },
       "font-weight": {
-        "value": "{typography.font-weight.700}"
+        "value": "{typography.font-weight.600}"
       },
       "font-size": {
         "value": "{typography.font-size.16}"
@@ -322,10 +322,10 @@
     },
     "label-sm": {
       "font-family": {
-        "value": "{typography.font-family.nunito}"
+        "value": "{typography.font-family.inter}"
       },
       "font-weight": {
-        "value": "{typography.font-weight.700}"
+        "value": "{typography.font-weight.600}"
       },
       "font-size": {
         "value": "{typography.font-size.14}"
@@ -342,7 +342,7 @@
     },
     "body-lg": {
       "font-family": {
-        "value": "{typography.font-family.nunito}"
+        "value": "{typography.font-family.inter}"
       },
       "font-weight": {
         "value": "{typography.font-weight.400}"
@@ -362,7 +362,7 @@
     },
     "body-default": {
       "font-family": {
-        "value": "{typography.font-family.nunito}"
+        "value": "{typography.font-family.inter}"
       },
       "font-weight": {
         "value": "{typography.font-weight.400}"
@@ -382,7 +382,7 @@
     },
     "body-sm": {
       "font-family": {
-        "value": "{typography.font-family.nunito}"
+        "value": "{typography.font-family.inter}"
       },
       "font-weight": {
         "value": "{typography.font-weight.400}"
@@ -402,10 +402,10 @@
     },
     "meta-default": {
       "font-family": {
-        "value": "{typography.font-family.nunito}"
+        "value": "{typography.font-family.inter}"
       },
       "font-weight": {
-        "value": "{typography.font-weight.700}"
+        "value": "{typography.font-weight.600}"
       },
       "font-size": {
         "value": "{typography.font-size.14}"
@@ -422,10 +422,10 @@
     },
     "meta-sm": {
       "font-family": {
-        "value": "{typography.font-family.nunito}"
+        "value": "{typography.font-family.inter}"
       },
       "font-weight": {
-        "value": "{typography.font-weight.700}"
+        "value": "{typography.font-weight.600}"
       },
       "font-size": {
         "value": "{typography.font-size.12}"

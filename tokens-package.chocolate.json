@@ -1,0 +1,8 @@
+{
+  "name": "@andrewjypark/subatomic-design-tokens-chocolate",
+  "version": "1.0.0",
+  "description": "Chocolate theme CSS design tokens for the Subatomic design system",
+  "main": "css/_variables.css",
+  "files": ["css"],
+  "license": "MIT"
+}

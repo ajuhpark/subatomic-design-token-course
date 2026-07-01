@@ -3,16 +3,16 @@
     "color": {
       "content": {
         "default": {
-          "value": "{color.brand.pink.600}"
+          "value": "{color.brand.brown.600}"
         },
         "hover": {
-          "value": "{color.brand.pink.900}"
+          "value": "{color.brand.brown.900}"
         },
         "active": {
-          "value": "{color.brand.pink.900}"
+          "value": "{color.brand.brown.900}"
         },
         "visited": {
-          "value": "{color.brand.pink.600}"
+          "value": "{color.brand.brown.600}"
         }
       }
     },
@@ -20,16 +20,16 @@
       "color": {
         "content": {
           "default": {
-            "value": "{color.brand.pink.100}"
+            "value": "{color.brand.brown.100}"
           },
           "hover": {
-            "value": "{color.brand.pink.200}"
+            "value": "{color.brand.brown.200}"
           },
           "active": {
-            "value": "{color.brand.pink.200}"
+            "value": "{color.brand.brown.200}"
           },
           "visited": {
-            "value": "{color.brand.pink.300}"
+            "value": "{color.brand.brown.300}"
           }
         }
       }

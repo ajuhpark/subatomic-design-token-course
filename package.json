@@ -1,12 +1,15 @@
 {
   "name": "subatomic-design-token-course",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "build": "style-dictionary build && sass subatomic-components/button/button.scss build/css/button.css",
-    "watch": "nodemon --watch subatomic-design-tokens/tokens --watch subatomic-components --ext json,scss --exec 'npm run build'",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node build-tokens.js && sass subatomic-components/button/button.scss build/css/button.css",
+    "watch": "nodemon --watch subatomic-design-tokens --watch subatomic-components --ext json,scss --exec 'npm run build'",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish:tokens:chocolate": "npm run build && cp tokens-package.chocolate.json build/chocolate/package.json && cd build/chocolate && npm publish --access public",
+    "publish:tokens:strawberry": "npm run build && cp tokens-package.strawberry.json build/strawberry/package.json && cd build/strawberry && npm publish --access public",
+    "publish:tokens": "npm run publish:tokens:chocolate && npm run publish:tokens:strawberry"
   },
   "author": "",
   "license": "ISC",
